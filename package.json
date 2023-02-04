@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wellingtonollv/cleanReact/issues"
   },
-  "homepage": "https://github.com/wellingtonollv/cleanReact#readme"
+  "homepage": "https://github.com/wellingtonollv/cleanReact#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.5.0"
+  }
 }
