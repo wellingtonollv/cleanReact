@@ -1,0 +1,20 @@
+{
+  "name": "cleanreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellingtonollv/cleanReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellingtonollv/cleanReact/issues"
+  },
+  "homepage": "https://github.com/wellingtonollv/cleanReact#readme"
+}
